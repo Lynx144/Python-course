@@ -1,7 +1,5 @@
-import streamlit as st
-st.header("Ví dụ về Radio Button")
-muc_do = st.radio(
-    "Bạn thích Streamlit ở mức độ nào?",
-    ("Rất thích", "Bình thường", "Chưa rõ")
-)
-st.write(f"Bạn đã chọn: {muc_do}")
+n1=0
+n2=0
+n3=0
+for i in range(0,n1+1):
+    
